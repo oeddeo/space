@@ -94,7 +94,7 @@ border-color: #191970;
 .earth {
   height: 500px;
   position: absolute;
-  left: 30%;
+  left: 50%;
   top: 60%;
   transform: translate(-50%,-50%);
 }
